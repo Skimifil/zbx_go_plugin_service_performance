@@ -1,0 +1,1 @@
+# zbx_go_plugin_service_performance
